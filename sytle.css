@@ -135,12 +135,16 @@
         display: block;
     }
     .most{
-        height: 100vh;
+        height: 50vh;
         margin-bottom: 25rem;
         top: 0;
+        
     }
     .most h2{
-        font-size: 20px;
-        margin-left: 40px;
+        font-size: 15px;
+        margin-left: 20px;
+        align-items: center;
+        border-bottom: 3px solid red;
+        line-height: 1.4;
     }
 }
